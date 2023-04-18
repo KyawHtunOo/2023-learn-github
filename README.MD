@@ -2,5 +2,5 @@
 for my testing
 
 # Installation
-* * npm install blah blah
-* * import blah blah
+* npm install blah blah
+* import blah blah
